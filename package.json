@@ -1,6 +1,6 @@
 {
   "name": "@bogochunas/fetch",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Fetch wrapper",
   "main": "index.js",
   "type": "module",
