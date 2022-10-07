@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/advertikon/npm-fetch/compare/v1.0.7...v1.0.8) (2022-10-07)
+
+
+### Bug Fixes
+
+* add semantic release ([7a83eb3](https://github.com/advertikon/npm-fetch/commit/7a83eb34c930f702b0c5d728c3c2b42bdabc35fc))
+
 # 1.0.0 (2022-10-07)
 
 
