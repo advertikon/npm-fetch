@@ -1,3 +1,1 @@
-import logFetch from './fetch.js';
-
-export default logFetch;
+export { logFetch } from './fetch.js';
