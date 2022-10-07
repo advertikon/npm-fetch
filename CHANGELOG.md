@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/advertikon/npm-fetch/compare/v1.0.8...v2.0.0) (2022-10-07)
+
+
+### Performance Improvements
+
+* add error handling ([92c4199](https://github.com/advertikon/npm-fetch/commit/92c41996ddffb51169348e1ee3413d376c959be9))
+
+
+### BREAKING CHANGES
+
+* changed return type
+
 ## [1.0.8](https://github.com/advertikon/npm-fetch/compare/v1.0.7...v1.0.8) (2022-10-07)
 
 
