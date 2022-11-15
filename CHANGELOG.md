@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/advertikon/npm-fetch/compare/v2.1.0...v2.1.1) (2022-11-15)
+
+
+### Bug Fixes
+
+* fix add headers error ([c1be4a4](https://github.com/advertikon/npm-fetch/commit/c1be4a402fa2e8daac9552b728d24ddb1167797c))
+
 # [2.1.0](https://github.com/advertikon/npm-fetch/compare/v2.0.0...v2.1.0) (2022-11-15)
 
 
