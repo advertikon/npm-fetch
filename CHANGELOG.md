@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/advertikon/npm-fetch/compare/v2.0.0...v2.1.0) (2022-11-15)
+
+
+### Features
+
+* make request objection optional ([decb2ba](https://github.com/advertikon/npm-fetch/commit/decb2bacdff1ff279e0df46dd2713875ebbd028a))
+
 # [2.0.0](https://github.com/advertikon/npm-fetch/compare/v1.0.8...v2.0.0) (2022-10-07)
 
 
