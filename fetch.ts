@@ -8,9 +8,8 @@ interface FetchRequest extends Request {
 }
 
 export function logFetch (req?: FetchRequest) {
-    return function doFetch (url: RequestInfo, init: RequestInit = { headers: {} }) {
-        // @ts-ignore
-        init.headers['x-req-id'] = req?.req_id || ulid();
+    return function doFetch (url: RequestInfo, init: RequestInit = {}) {
+        init.headers = { ...(init.headers || {}), 'x-req-id': req?.req_id || ulid() };
 
         return fetch(url, init).then(processResponse);
     }
