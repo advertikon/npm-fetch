@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/advertikon/npm-fetch/compare/v2.1.1...v3.0.0) (2023-01-28)
+
+
+### Performance Improvements
+
+* do not handle respose ([884981c](https://github.com/advertikon/npm-fetch/commit/884981cd60bdcd982d18e04600a9b717fb9ddea6))
+
+
+### BREAKING CHANGES
+
+* response needs to be handled by outside code
+
 ## [2.1.1](https://github.com/advertikon/npm-fetch/compare/v2.1.0...v2.1.1) (2022-11-15)
 
 
